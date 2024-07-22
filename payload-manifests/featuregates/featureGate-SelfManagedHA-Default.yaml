@@ -137,6 +137,9 @@
                         "name": "OnClusterBuild"
                     },
                     {
+                        "name": "BootcUpdatePath"
+                    },
+                    {
                         "name": "PersistentIPsForVirtualization"
                     },
                     {

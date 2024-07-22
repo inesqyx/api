@@ -201,6 +201,9 @@
                         "name": "OnClusterBuild"
                     },
                     {
+                        "name": "BootcUpdatePath"
+                    },
+                    {
                         "name": "OpenShiftPodSecurityAdmission"
                     },
                     {
